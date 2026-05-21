@@ -1,4 +1,4 @@
-# jarvis-ai-assistant
+# VANI-ai-assistant
 
 # 🤖 AI Project
 
